@@ -28,6 +28,11 @@ html {
   background-position: center;
 }
 
+.info-image {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 
 .header {
   padding-top: 140px;
